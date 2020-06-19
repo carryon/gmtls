@@ -7,9 +7,9 @@ import (
 	"net"
 	"testing"
 
-	"github.com/tjfoc/gmsm/sm2"
-	"github.com/tjfoc/gmtls"
-	"github.com/tjfoc/gmtls/gmcredentials/echo"
+	"github.com/carryon/gmsm/sm2"
+	"github.com/carryon/gmtls"
+	"github.com/carryon/gmtls/gmcredentials/echo"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
