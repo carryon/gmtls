@@ -1,3 +1,3 @@
-module github.com/carryon/gmtls
+module gmtls
 
 go 1.13
